@@ -1,0 +1,13 @@
+name: Surges
+main: org.Prison.Surge.Main
+version: 1.0
+description: >
+             Surge plugin
+commands:
+  givesurge:
+    description: Staff Command
+  activate:
+    description: Staff Command
+  surge:
+    description: Opens surge menu.                                     
+                                        
